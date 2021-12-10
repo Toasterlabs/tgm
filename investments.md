@@ -129,29 +129,60 @@ The investment tree consists of several branches:
 
 #### Supply Chain I
 
-Increase cash production
+*Increases robbery speed*
 
 |Level|Value|Influence increase|
 |---|---|---|
-|1|||
-|2|||
-|3|||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-
-
-#### Warehouse Oversight
-
-#### Logistics I
+|1|1%|117|
+|2|3%|195|
+|3|6%|349|
+|4|10%|1 050|
+|5|15%|3 150|
+|6|21%|9 448|
+|7|28%|28 345|
+|8|37%|85 036|
+|9|48%|255 106|
+|10|70%|637 765|
 
 ### Defenses
 
-Investments to improve your defenses
+#### Traps I
+
+*Increases traps assembling speed*
+
+|Level|Value|Influence increase|
+|---|---|---|
+|1|20%|24|
+
+#### Spikes
+
+#### Firebombs
+
+#### Frag grenades
+
+#### Wall Engineering I
+
+#### Traps DEF Power I
+
+#### Traps ATK Power I
+
+#### Traps HP Stability I
+
+#### Wall Engineering II
+
+#### Talon Spikes
+
+#### Thermite Bombs
+
+#### Avocado Grenades
+
+#### Wall Engineering III
+
+#### Lacerators
+
+#### Napalm Bombs
+
+#### Pineapple grenades
 
 ### Crew
 
@@ -189,6 +220,6 @@ Allows you to change the 'formation' of your crew in battle
 
 Make your gear better!
 
-### Governor's War
+### Governors War
 
 A set of investments which make life in Governor's War easier. *Requires crypto coins (Real Money Needed Alert!).*
